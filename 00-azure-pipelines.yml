@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: nodepool
+  name: self-hosted-agent
 
 
 steps:
